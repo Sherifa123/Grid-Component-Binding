@@ -1,0 +1,11 @@
+div {
+  font-size: larger;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serifs;
+  font-weight: bold;
+  width: 1200px;
+  height: 50px;
+  background-color: gray;
+  display: flex;
+  justify-content: right;
+}

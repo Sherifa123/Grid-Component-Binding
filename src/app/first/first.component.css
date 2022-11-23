@@ -1,0 +1,12 @@
+span {
+  font-size: larger;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serifs;
+  font-weight: bold;
+  width: 400px;
+  height: 500px;
+  background-color: rgb(233, 176, 90);
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+}
